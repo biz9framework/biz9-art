@@ -1,4 +1,4 @@
-VERSION='1.5'
+VERSION='1.6'
 TITLE='BiZ9-Art'
 REPO='git@github.com:biz9framework/biz9-art.git'
 BRANCH='main'
