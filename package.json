@@ -1,0 +1,22 @@
+{
+  "name": "biz9-art",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biz9framework/biz9-art.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biz9framework/biz9-art/issues"
+  },
+  "homepage": "https://github.com/biz9framework/biz9-art#readme",
+  "dependencies": {
+    "biz9-scriptz": "^5.2.29"
+  }
+}
