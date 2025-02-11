@@ -9,6 +9,7 @@ Use the [npm](https://npm.com) installer to install.
 npm i biz9-art
 ```
 
+## Contents
 * [Credit](#credit)
 
 #### <a id="credit"></a>Credits
