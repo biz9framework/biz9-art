@@ -1,4 +1,4 @@
-BiZ9 Art
+# BiZ9 Art
 
 **The BiZ9-Art Package**
 
