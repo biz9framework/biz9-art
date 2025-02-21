@@ -2,7 +2,7 @@
 
 **The BiZ9-Art Package**
 
-## Contents
+## Credits
 ### <a id="credit"></a>Credits
 
 #### Company
@@ -30,7 +30,7 @@
 #### TaNK9 Code 👽
 ![TaNK9 Code Head](https://github.com/biz9framework/biz9-art/blob/main/tank9code/head/tank9_headx250.png?raw=true)
 
-**Brandon Poole Sr** also known as **‘TaNK’** is a technical lead and full stack software engineer with over 19 years of professional experience. He was born and raised in **Atlanta, Ga** and graduated with a [**Computer Information Systems Bachelor of Science Degree**] from [**Fort Valley State University**](https://www.fvsu.edu/). He is proficient in [**ASP.NET C#**](http://ASP.NET), [**ASP.NET MVC**](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc), [**.NET Core**](https://dotnet.microsoft.com/en-us/download), [**Microsoft SQL Server**](https://www.microsoft.com/en-us/sql-server), [**IIS Web Server**](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview), [**Node.js**](http://Node.js), [**React**](https://react.dev/), [**React Native**](https://reactnative.dev/), [**Framework7**](https://framework7.io/), [**Redis**](https://redis.io/), [**Amazon Web Services**](https://aws.amazon.com/), [**Apple iOS**](https://developer.apple.com/ios/), [**Android SDK**](https://developer.android.com/studio), [**MongoDB**](https://www.mongodb.com/), [**Redis**](https://redis.io/), [**NGINX**](https://nginx.org/), and [**Git**](https://git-scm.com/). He has worked as a software developer for Fortune 500 companies such as [**The Boeing Company**](https://www.boeing.com/), [**Georgia Pacific**](https://www.gp.com/), [**Colonial Pipeline**](https://www.colpipe.com/), [**Home Depot**] and [**United Parcel Services**].
+**Brandon Poole Sr** also known as **‘TaNK’** is a technical lead and full stack software engineer with over 19 years of professional experience. He was born and raised in **Atlanta, Ga** and graduated with a **Computer Information Systems Bachelor of Science Degree** from [**Fort Valley State University**](https://www.fvsu.edu/). He is proficient in [**ASP.NET C#**](http://ASP.NET), [**ASP.NET MVC**](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc), [**.NET Core**](https://dotnet.microsoft.com/en-us/download), [**Microsoft SQL Server**](https://www.microsoft.com/en-us/sql-server), [**IIS Web Server**](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview), [**Node.js**](http://Node.js), [**React**](https://react.dev/), [**React Native**](https://reactnative.dev/), [**Framework7**](https://framework7.io/), [**Redis**](https://redis.io/), [**Amazon Web Services**](https://aws.amazon.com/), [**Apple iOS**](https://developer.apple.com/ios/), [**Android SDK**](https://developer.android.com/studio), [**MongoDB**](https://www.mongodb.com/), [**Redis**](https://redis.io/), [**NGINX**](https://nginx.org/), and [**Git**](https://git-scm.com/). He has worked as a software developer for Fortune 500 companies such as [**The Boeing Company**](https://www.boeing.com/), [**Georgia Pacific**](https://www.gp.com/), [**Colonial Pipeline**](https://www.colpipe.com/), [**Home Depot**] and [**United Parcel Services**].
 
 He is sometimes referred to as “the real Tank” from the movie [**The Matrix**](https://www.imdb.com/title/tt0133093/).
 
@@ -41,15 +41,18 @@ He is sometimes referred to as “the real Tank” from the movie [**The Matrix*
 - [Tank9Code Youtube](https://youtube.com/@tank9code)
 
 #### TagZ:
-##### #BoSSAppZ
 ##### #BiZ9Framework
-##### #EBook
+##### #BoSSAppZ
 ##### #Mobile
 ##### #Apple
 ##### #Android
+##### #ApplicationDevelopment
+##### #SoftwareFramework
+##### #Cloud
 ##### #IOS
 ##### #Linux
-##### #AmazonWebServices
+##### #JavaScript
+##### #NoSQL
 ##### #AppMoneyNoteZ
 ##### #TaNK9Code
 ##### Thank you for your time.
